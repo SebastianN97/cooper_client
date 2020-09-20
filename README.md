@@ -1,5 +1,7 @@
 Cloned down repository from https://github.com/munemo/cooper_client, my earlier commits excist on the following link. 
 
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
